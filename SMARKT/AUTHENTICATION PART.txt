@@ -1,0 +1,16 @@
+AUTHENTICATION PART
+1 class for username and password -->def check
+2 class for new user --> create new username and generate the password
+(username is an integer number an password is the same number) 
+-	Create a txt file for the database(username&password)
+
+
+
+- interface 1-->login + new user---> python file for check or for create new authentication
+-interface 2 ---> login succesfull --> chart number 
+-interface 3--> login fail
+-interface 4--> the market gives you username & password---> interface 1--> file aut_CHECK.py add new user
+
+SHOP PART
+- interface 5--> shopping list--> cod product/ submit---> check-->python with publisher(send) and subscriber(receive)
+- interface 6---> total cost and pay
